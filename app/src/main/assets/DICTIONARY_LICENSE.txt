@@ -1,0 +1,14 @@
+WordGrid English Lexicon License & Attribution
+
+The word list bundled in `words_en.txt` is derived from the ENABLE (Enhanced North American Benchmark Lexicon) word list and public domain word game lexicons.
+
+Attribution & Legal Status:
+- Source: Enhanced North American Benchmark Lexicon (ENABLE)
+- Authors / Maintainers: Keith Pomakis and contributing lexicographers (1997)
+- License: Public Domain
+- Terms: "The ENABLE master word list has been placed in the public domain. It is available for free, unrestricted redistribution and use in any commercial or non-commercial application without royalty, fee, or restriction."
+
+Accepted-Word Policy for WordGrid:
+1. Words range strictly from 2 to 13 uppercase English alphabetic letters (A-Z).
+2. Contains standard nouns, verbs, adjectives, adverbs, and inflected forms valid in standard English word games.
+3. Does not require internet access; offline lookup uses an in-memory prefix Trie for immediate, zero-latency validation.

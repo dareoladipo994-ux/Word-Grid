@@ -1,0 +1,6 @@
+{
+  "name": "WordGrid",
+  "description": "Offline 13x13 mobile word board game featuring rotational bonus layouts, local dictionary validation, and a balanced computer opponent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
